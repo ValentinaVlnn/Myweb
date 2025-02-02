@@ -1,0 +1,18 @@
+2025-02-01 20:32:43.875 [info] 
+
+
+
+
+2025-02-01 20:32:43.880 [info] Extension host agent started.
+2025-02-01 20:32:43.908 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vmarquez/.vscode-server/extensions
+2025-02-01 20:32:43.914 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vmarquez/.vscode-server/extensions
+2025-02-01 20:32:44.100 [info] [127.0.0.1][dfc69d8c][ManagementConnection] New connection established.
+2025-02-01 20:32:44.272 [info] [127.0.0.1][2c207080][ExtensionHostConnection] New connection established.
+2025-02-01 20:32:44.276 [info] [127.0.0.1][2c207080][ExtensionHostConnection] <889> Launched Extension Host Process.
+2025-02-01 20:42:12.462 [info] [127.0.0.1][dfc69d8c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-01 20:42:12.505 [info] [127.0.0.1][2c207080][ExtensionHostConnection] <889> Extension Host Process exited with code: 0, signal: null.
+2025-02-01 20:42:13.761 [info] [127.0.0.1][8ba58aad][ManagementConnection] New connection established.
+2025-02-01 20:42:13.926 [info] [127.0.0.1][f4ed52de][ExtensionHostConnection] New connection established.
+2025-02-01 20:42:13.929 [info] [127.0.0.1][f4ed52de][ExtensionHostConnection] <2704> Launched Extension Host Process.
+2025-02-01 20:44:02.479 [info] [127.0.0.1][8ba58aad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-01 20:44:02.503 [info] [127.0.0.1][f4ed52de][ExtensionHostConnection] <2704> Extension Host Process exited with code: 0, signal: null.
